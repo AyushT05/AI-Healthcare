@@ -8,9 +8,9 @@ The **AI Healthcare Assistant** is an intelligent web-based application that all
 
 - 🤖 **AI Symptom Analysis:**  
   Users can enter symptoms in natural language, and the AI will analyse them using medical datasets and language models.
-  ![Symptoms Input](./assets/Symptoms.jpg)
+  ![Symptoms Input](./SS/Symptoms.jpg)
   <p align="center">
-  <img src="./assets/Symptoms.jpg" alt="AI Healthcare Dashboard" width="600"/>
+  <img src="./SS/Symptoms.jpg" alt="AI Healthcare Dashboard" width="600"/>
   </p>
 
 
@@ -20,8 +20,8 @@ The **AI Healthcare Assistant** is an intelligent web-based application that all
 
 - 💊 **Treatment Suggestions:**  
   Provides AI-suggested treatments or next steps for each predicted disease.
-  ![Disease Prediction and Treatment Suggestion](./assets/AnalysisReport.jpg)
-  ![Precautions](./assets/Precaustions.jpg)
+  ![Disease Prediction and Treatment Suggestion](./SS/AnalysisReport.jpg)
+  ![Precautions](./SS/Precaustions.jpg)
 
 
 
@@ -30,7 +30,7 @@ The **AI Healthcare Assistant** is an intelligent web-based application that all
 
 - 🧾 **Report Storage:**  
   All analyses are saved to the user's report dashboard for future reference.
-  ![List of Analysis](./assets/AnalysisList.jpg)
+  ![List of Analysis](./SS/AnalysisList.jpg)
 
 
 ---
